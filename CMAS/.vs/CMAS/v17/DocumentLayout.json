@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\intreatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\intreatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\excersise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\excersise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\datacollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\datacollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\fysio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\fysio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\businesslayer\\reseacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\reseacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\rickt\\source\\repos\\project-cmas\\cmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\DataAccessLayer\\DAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DAL.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\DataAccessLayer\\DAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:44:21.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InTreatment.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\InTreatment.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\InTreatment.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\InTreatment.cs",
+              "RelativeToolTip": "BusinessLayer\\InTreatment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:43:57.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Measurement.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Measurement.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Measurement.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Measurement.cs",
+              "RelativeToolTip": "BusinessLayer\\Measurement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:43:40.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Excersise.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Excersise.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Excersise.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Excersise.cs",
+              "RelativeToolTip": "BusinessLayer\\Excersise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:43:27.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Statistic.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Statistic.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Statistic.cs",
+              "RelativeToolTip": "BusinessLayer\\Statistic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:43:15.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataCollect.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\DataCollect.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\DataCollect.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\DataCollect.cs",
+              "RelativeToolTip": "BusinessLayer\\DataCollect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:42:59.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fysio.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Fysio.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Fysio.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Fysio.cs",
+              "RelativeToolTip": "BusinessLayer\\Fysio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:42:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Doctor.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Doctor.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Doctor.cs",
+              "RelativeToolTip": "BusinessLayer\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:42:30.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Patient.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Patient.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Patient.cs",
+              "RelativeToolTip": "BusinessLayer\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:42:18.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reseacher.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Reseacher.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Reseacher.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Reseacher.cs",
+              "RelativeToolTip": "BusinessLayer\\Reseacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:42:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:40:39.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
