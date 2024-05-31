@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace CMAS.BusinessLayer
 {
-    internal class Statistic
+    internal class Rapport
     {
+        Patient Patient { get; set; }
+        Doctor Doctor { get; set; }
+        Physio Physio { get; set; }
         Data Data { get; set; }
+
     }
 }

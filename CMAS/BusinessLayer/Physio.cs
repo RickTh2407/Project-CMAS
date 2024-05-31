@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace CMAS.BusinessLayer
 {
-    internal class DataCollect
+    internal class Physio
     {
+        int PhysioId { get; set; }
+        string PhysioName { get; set; }
+        InTreatment inTreatment { get; set; }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CMAS.BusinessLayer
 {
-    internal class Fysio
+    internal class Data
     {
     }
 }
