@@ -10,6 +10,6 @@ namespace CMAS.BusinessLayer
     {
         int PhysioId { get; set; }
         string PhysioName { get; set; }
-        InTreatment inTreatment { get; set; }
+        InTreatment InTreatment { get; set; }
     }
 }
