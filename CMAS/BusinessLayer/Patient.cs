@@ -8,10 +8,15 @@ namespace CMAS.BusinessLayer
 {
     internal class Patient
     {
-        int PatientId { get; set; }
-        int PolisNumber { get; set; }
-        string PatientName { get; set; }
-        int RoomNumber { get; set; }
-        string Department { get; set; }
+        private int PatientId { get; set; }
+        private int PolisNumber { get; set; }
+        private string PatientName { get; set; }
+        private int RoomNumber { get; set; }
+        private string Department { get; set; }
+
+        public void StartExercise()
+        {
+
+        }
     }
 }

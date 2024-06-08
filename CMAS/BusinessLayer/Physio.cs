@@ -8,8 +8,13 @@ namespace CMAS.BusinessLayer
 {
     internal class Physio
     {
-        int PhysioId { get; set; }
-        string PhysioName { get; set; }
-        InTreatment InTreatment { get; set; }
+        private int PhysioId { get; set; }
+        private string PhysioName { get; set; }
+        private Treatment Treatment { get; set; }
+
+        public void InputMeasurement()
+        {
+
+        }
     }
 }

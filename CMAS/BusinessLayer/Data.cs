@@ -8,5 +8,7 @@ namespace CMAS.BusinessLayer
 {
     internal class Data
     {
+        private Measurement Measurement { get; set; }
+        private Exercise Exercise { get; set; }
     }
 }

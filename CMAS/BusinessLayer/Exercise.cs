@@ -8,9 +8,14 @@ namespace CMAS.BusinessLayer
 {
     internal class Exercise
     {
-        int ExerciseId { get; set; }
-        string ExerciseName { get; set; }
-        bool ExerciseFinished { get; set; }
-        List<Exercise> ExerciseList { get; set; }
+        private int ExerciseId { get; set; }
+        private string ExerciseName { get; set; }
+        private bool ExerciseFinished { get; set; }
+        private List<Exercise> ExerciseList { get; set; }
+
+        public void SummerizeExercise()
+        {
+
+        }
     }
 }

@@ -8,7 +8,16 @@ namespace CMAS.BusinessLayer
 {
     internal class Reseacher
     {
-        int ResearcherId { get; set; }
-        string ResearcherName { get; set; }
+        private int ResearcherId { get; set; }
+        private string ResearcherName { get; set; }
+
+        public void ViewDiagram()
+        {
+
+        }
+        public void ViewStatistics()
+        {
+
+        }
     }
 }
