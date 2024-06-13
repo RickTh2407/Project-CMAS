@@ -114,7 +114,7 @@
             Controls.Add(button2);
             Controls.Add(LoginButton);
             Name = "Login";
-            Text = "Form1";
+            Text = "9";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
