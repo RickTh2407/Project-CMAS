@@ -1,0 +1,15 @@
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\bin\Debug\net8.0\CMAS.exe
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\bin\Debug\net8.0\CMAS.deps.json
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\bin\Debug\net8.0\CMAS.runtimeconfig.json
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\bin\Debug\net8.0\CMAS.dll
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\bin\Debug\net8.0\CMAS.pdb
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.AssemblyInfoInputs.cache
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.AssemblyInfo.cs
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.csproj.CoreCompileInputs.cache
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.sourcelink.json
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.dll
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\refint\CMAS.dll
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.pdb
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\CMAS.genruntimeconfig.cache
+C:\Users\knopp\Dropbox\My PC (LAPTOP-C3L4ER7C)\Documents\GitHub2\Project-CMAS\CMAS\obj\Debug\net8.0\ref\CMAS.dll
