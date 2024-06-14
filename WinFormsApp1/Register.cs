@@ -21,7 +21,7 @@ namespace WinFormsApp1
         {
             Login login = new Login();
             login.Show();
-            this.Close();
+            this.Hide();
         }
     }
 }
