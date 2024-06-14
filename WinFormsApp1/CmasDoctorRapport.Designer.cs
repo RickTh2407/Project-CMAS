@@ -32,7 +32,6 @@
             homeToolStripMenuItem = new ToolStripMenuItem();
             patientToolStripMenuItem = new ToolStripMenuItem();
             resultToolStripMenuItem = new ToolStripMenuItem();
-            exerciseToolStripMenuItem = new ToolStripMenuItem();
             adviceToolStripMenuItem = new ToolStripMenuItem();
             exerciseToolStripMenuItem1 = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
@@ -41,7 +40,7 @@
             // menuStrip1
             // 
             menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { homeToolStripMenuItem, patientToolStripMenuItem, resultToolStripMenuItem, exerciseToolStripMenuItem, adviceToolStripMenuItem, exerciseToolStripMenuItem1 });
+            menuStrip1.Items.AddRange(new ToolStripItem[] { homeToolStripMenuItem, patientToolStripMenuItem, resultToolStripMenuItem, adviceToolStripMenuItem, exerciseToolStripMenuItem1 });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(800, 28);
@@ -68,13 +67,6 @@
             resultToolStripMenuItem.Size = new Size(63, 24);
             resultToolStripMenuItem.Text = "Result";
             resultToolStripMenuItem.Click += resultToolStripMenuItem_Click;
-            // 
-            // exerciseToolStripMenuItem
-            // 
-            exerciseToolStripMenuItem.Name = "exerciseToolStripMenuItem";
-            exerciseToolStripMenuItem.Size = new Size(77, 24);
-            exerciseToolStripMenuItem.Text = "Rapport";
-            exerciseToolStripMenuItem.Click += exerciseToolStripMenuItem_Click;
             // 
             // adviceToolStripMenuItem
             // 
@@ -111,7 +103,6 @@
         private ToolStripMenuItem homeToolStripMenuItem;
         private ToolStripMenuItem patientToolStripMenuItem;
         private ToolStripMenuItem resultToolStripMenuItem;
-        private ToolStripMenuItem exerciseToolStripMenuItem;
         private ToolStripMenuItem adviceToolStripMenuItem;
         private ToolStripMenuItem exerciseToolStripMenuItem1;
     }
