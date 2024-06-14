@@ -16,5 +16,40 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
+
+        private void patientToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CmasDoctorPatient patient = new CmasDoctorPatient();
+            patient.Show();
+            this.Close();
+        }
+
+        private void resultToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CmasDoctorResult result = new CmasDoctorResult();
+            result.Show();
+            this.Close();
+        }
+
+        private void rapportToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CmasDoctorRapport rapport = new CmasDoctorRapport();
+            rapport.Show();
+            this.Close();
+        }
+
+        private void excerciseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CmasDoctorExercises exercises = new CmasDoctorExercises();
+            exercises.Show();
+            this.Close();
+        }
+
+        private void adviceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CmasDoctorAdvice advice = new CmasDoctorAdvice();
+            advice.Show();
+            this.Close();
+        }
     }
 }
