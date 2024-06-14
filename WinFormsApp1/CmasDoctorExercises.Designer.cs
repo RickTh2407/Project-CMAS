@@ -52,30 +52,35 @@
             homeToolStripMenuItem.Name = "homeToolStripMenuItem";
             homeToolStripMenuItem.Size = new Size(64, 24);
             homeToolStripMenuItem.Text = "Home";
+            homeToolStripMenuItem.Click += homeToolStripMenuItem_Click;
             // 
             // patientToolStripMenuItem
             // 
             patientToolStripMenuItem.Name = "patientToolStripMenuItem";
             patientToolStripMenuItem.Size = new Size(68, 24);
             patientToolStripMenuItem.Text = "Patient";
+            patientToolStripMenuItem.Click += patientToolStripMenuItem_Click;
             // 
             // rapportToolStripMenuItem
             // 
             rapportToolStripMenuItem.Name = "rapportToolStripMenuItem";
             rapportToolStripMenuItem.Size = new Size(63, 24);
             rapportToolStripMenuItem.Text = "Result";
+            rapportToolStripMenuItem.Click += rapportToolStripMenuItem_Click;
             // 
             // rapportToolStripMenuItem1
             // 
             rapportToolStripMenuItem1.Name = "rapportToolStripMenuItem1";
             rapportToolStripMenuItem1.Size = new Size(77, 24);
             rapportToolStripMenuItem1.Text = "Rapport";
+            rapportToolStripMenuItem1.Click += rapportToolStripMenuItem1_Click;
             // 
             // adviceToolStripMenuItem
             // 
             adviceToolStripMenuItem.Name = "adviceToolStripMenuItem";
             adviceToolStripMenuItem.Size = new Size(68, 24);
             adviceToolStripMenuItem.Text = "Advice";
+            adviceToolStripMenuItem.Click += adviceToolStripMenuItem_Click;
             // 
             // CmasDoctorExercises
             // 
