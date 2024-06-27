@@ -1,70 +1,70 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Cmas Doctor Home.cs">
+    <Compile Update="Doctor\Cmas Doctor Home.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="CmasDoctorAdvice.cs">
+    <Compile Update="Doctor\CmasDoctorAdvice.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="CmasDoctorExercises.cs">
+    <Compile Update="Doctor\CmasDoctorExercises.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="CmasDoctorPatient.cs">
+    <Compile Update="Doctor\CmasDoctorPatient.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="CmasDoctorRapport.cs">
+    <Compile Update="Doctor\CmasDoctorRapport.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="CmasDoctorResult.cs">
+    <Compile Update="Doctor\CmasDoctorResult.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GaurdionAdvice.cs">
+    <Compile Update="Gaurdion\GaurdionAdvice.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GaurdionHome.cs">
+    <Compile Update="Gaurdion\GaurdionHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GaurdionRapport.cs">
+    <Compile Update="Gaurdion\GaurdionRapport.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="GaurdionResult.cs">
+    <Compile Update="Gaurdion\GaurdionResult.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PatientAdvice.cs">
+    <Compile Update="Patient\PatientAdvice.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PatientHome.cs">
+    <Compile Update="Patient\PatientHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PatientResults.cs">
+    <Compile Update="Patient\PatientResults.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PatientStartTask.cs">
+    <Compile Update="Patient\PatientStartTask.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PatientStartTest.cs">
+    <Compile Update="Patient\PatientStartTest.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PatientTask.cs">
+    <Compile Update="Patient\PatientTask.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PhysioAdviceCrud.cs">
+    <Compile Update="Physio\PhysioAdviceCrud.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PhysioExerciseCrud.cs">
+    <Compile Update="Physio\PhysioExerciseCrud.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PhysioHome.cs">
+    <Compile Update="Physio\PhysioHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PhysioPatients.cs">
+    <Compile Update="Physio\PhysioPatients.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PhysioRapports.cs">
+    <Compile Update="Physio\PhysioRapports.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Register.cs">
