@@ -22,6 +22,24 @@
     <Compile Update="Login.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="PatientAdvice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientStartTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientStartTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Register.cs">
       <SubType>Form</SubType>
     </Compile>
