@@ -19,6 +19,18 @@
     <Compile Update="CmasDoctorResult.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="GaurdionAdvice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GaurdionHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GaurdionRapport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GaurdionResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Login.cs">
       <SubType>Form</SubType>
     </Compile>
