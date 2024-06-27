@@ -40,6 +40,21 @@
     <Compile Update="PatientTask.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="PhysioAdviceCrud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhysioExerciseCrud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhysioHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhysioPatients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhysioRapports.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Register.cs">
       <SubType>Form</SubType>
     </Compile>
