@@ -19,16 +19,16 @@
     <Compile Update="Doctor\CmasDoctorResult.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Gaurdion\GaurdionAdvice.cs">
+    <Compile Update="Gaurdion\GuardianAdvice.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Gaurdion\GaurdionHome.cs">
+    <Compile Update="Gaurdion\GuardianHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Gaurdion\GaurdionRapport.cs">
+    <Compile Update="Gaurdion\GuardianRapport.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Gaurdion\GaurdionResult.cs">
+    <Compile Update="Gaurdion\GuardionResult.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Login.cs">

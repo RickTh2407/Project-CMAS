@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WinFormsApp1
 {
-    public partial class GaurdionRapport : Form
+    public partial class GuardianHome : Form
     {
-        public GaurdionRapport()
+        public GuardianHome()
         {
             InitializeComponent();
         }

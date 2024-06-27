@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp1
 {
-    partial class GaurdionRapport
+    partial class GuardianRapport
     {
         /// <summary>
         /// Required designer variable.
