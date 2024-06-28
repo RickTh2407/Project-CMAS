@@ -11,10 +11,13 @@ namespace CMAS.BusinessLayer
         private int PatientId { get; set; }
         private int PolisNumber { get; set; }
         private string PatientName { get; set; }
-        private int RoomNumber { get; set; }
-        private string Department { get; set; }
+        private string PatientAddress { get; set; }
 
         public void StartExercise()
+        {
+
+        }
+        public void StopExercise()
         {
 
         }
