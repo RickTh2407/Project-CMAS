@@ -15,5 +15,13 @@ namespace CMAS.BusinessLayer
         {
 
         }
+        public void StartExercise()
+        {
+
+        }
+        public void StopExercise()
+        {
+
+        }
     }
 }
