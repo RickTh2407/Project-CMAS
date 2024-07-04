@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace CMAS.BusinessLayer
 {
-    internal class Measurement
+    internal class Test
     {
+        private int TestId { get; set; }
         private Patient Patient { get; set; }
         private double LeftAnkle { get; set; }
         private double RightAnkle { get; set; }

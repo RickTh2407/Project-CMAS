@@ -9,6 +9,7 @@ namespace CMAS.BusinessLayer
 {
     internal class Rapport
     {
+        private int RapportId { get; set; }
         private Patient Patient { get; set; }
         private Doctor Doctor { get; set; }
         private Physio Physio { get; set; }

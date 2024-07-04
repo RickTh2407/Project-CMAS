@@ -34,7 +34,7 @@
             // 
             // PatientsButton
             // 
-            PatientsButton.Location = new Point(12, 65);
+            PatientsButton.Location = new Point(12, 12);
             PatientsButton.Name = "PatientsButton";
             PatientsButton.Size = new Size(224, 109);
             PatientsButton.TabIndex = 0;

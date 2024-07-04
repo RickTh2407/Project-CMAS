@@ -11,7 +11,6 @@ namespace CMAS.BusinessLayer
         private int DoctorId { get; set; }
         private string DoctorName { get; set; }
         private string Department { get; set; }
-        private Treatment Treatment { get; set; }
 
         public void AssignExercise()
         {
