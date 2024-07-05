@@ -12,6 +12,7 @@ namespace CMAS.BusinessLayer
         private int PolisNumber { get; set; }
         private string PatientName { get; set; }
         private string PatientAddress { get; set; }
+        private DateTime DateOfBirth { get; set; }
 
         public void StartExercise()
         {
