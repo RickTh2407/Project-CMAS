@@ -133,7 +133,7 @@
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Register";
-            Text = "Register";
+            Text = "6";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

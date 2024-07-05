@@ -10,8 +10,8 @@ namespace WinFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Cmas_Doctor_Home Home = new Cmas_Doctor_Home();
-            Home.Show();
+            PatientHome home = new PatientHome();
+            home.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)

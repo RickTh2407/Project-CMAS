@@ -16,5 +16,33 @@ namespace WinFormsApp1
         {
             InitializeComponent();
         }
+
+        private void ResultButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            PatientResults patientResults = new PatientResults();
+            patientResults.Show();
+        }
+
+        private void AdviceButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            PatientAdvice patientAdvice = new PatientAdvice();
+            patientAdvice.Show();
+        }
+
+        private void LogoutButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.Show();
+        }
+
+        private void ExerciseButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            PatientStartTest patient = new PatientStartTest();
+            patient.Show();
+        }
     }
 }
