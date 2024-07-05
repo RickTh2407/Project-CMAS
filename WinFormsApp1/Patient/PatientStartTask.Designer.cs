@@ -45,6 +45,7 @@
             HomeButton.TabIndex = 0;
             HomeButton.Text = "Home";
             HomeButton.UseVisualStyleBackColor = true;
+            HomeButton.Click += HomeButton_Click;
             // 
             // ResultsButton
             // 
@@ -54,6 +55,7 @@
             ResultsButton.TabIndex = 1;
             ResultsButton.Text = "Results";
             ResultsButton.UseVisualStyleBackColor = true;
+            ResultsButton.Click += ResultsButton_Click;
             // 
             // AdviceButton
             // 
@@ -63,6 +65,7 @@
             AdviceButton.TabIndex = 2;
             AdviceButton.Text = "Advice";
             AdviceButton.UseVisualStyleBackColor = true;
+            AdviceButton.Click += AdviceButton_Click;
             // 
             // BackButton
             // 
@@ -72,6 +75,7 @@
             BackButton.TabIndex = 3;
             BackButton.Text = "Back";
             BackButton.UseVisualStyleBackColor = true;
+            BackButton.Click += BackButton_Click;
             // 
             // TaskStartButton
             // 
@@ -81,6 +85,7 @@
             TaskStartButton.TabIndex = 4;
             TaskStartButton.Text = "Start Task";
             TaskStartButton.UseVisualStyleBackColor = true;
+            TaskStartButton.Click += TaskStartButton_Click;
             // 
             // dataGridView1
             // 
