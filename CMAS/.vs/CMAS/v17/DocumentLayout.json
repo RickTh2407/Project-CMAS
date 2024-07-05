@@ -3,16 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\patient\\patienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,56 +19,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Register.cs",
-              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Register.cs",
-              "ToolTip": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Register.cs",
-              "RelativeToolTip": "..\\WinFormsApp1\\Register.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADgvxgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:24:19.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Register.cs",
-              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Register.cs",
-              "ToolTip": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Register.cs [Design]",
-              "RelativeToolTip": "..\\WinFormsApp1\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:24:17.231Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "..\\WinFormsApp1\\Login.cs",
               "ToolTip": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs",
               "RelativeToolTip": "..\\WinFormsApp1\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:11:40.617Z",
+              "WhenOpened": "2024-07-05T10:13:48.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "..\\WinFormsApp1\\Login.cs",
               "ToolTip": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs [Design]",
               "RelativeToolTip": "..\\WinFormsApp1\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:09:57.15Z"
+              "WhenOpened": "2024-07-05T10:13:46.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Patient\\PatientHome.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Patient\\PatientHome.cs",
+              "ToolTip": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Patient\\PatientHome.cs [Design]",
+              "RelativeToolTip": "..\\WinFormsApp1\\Patient\\PatientHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:12:36.175Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
