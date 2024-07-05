@@ -45,6 +45,7 @@
             ExerciseButton.TabIndex = 0;
             ExerciseButton.Text = "Exercise";
             ExerciseButton.UseVisualStyleBackColor = true;
+            ExerciseButton.Click += ExerciseButton_Click;
             // 
             // ResultButton
             // 
@@ -54,7 +55,7 @@
             ResultButton.TabIndex = 1;
             ResultButton.Text = "Results";
             ResultButton.UseVisualStyleBackColor = true;
-            ResultButton.Click += button2_Click;
+            ResultButton.Click += ResultButton_Click;
             // 
             // AdviceButton
             // 
@@ -64,7 +65,7 @@
             AdviceButton.TabIndex = 2;
             AdviceButton.Text = "Advice";
             AdviceButton.UseVisualStyleBackColor = true;
-            AdviceButton.Click += button3_Click;
+            AdviceButton.Click += AdviceButton_Click;
             // 
             // LogoutButton
             // 
@@ -74,6 +75,7 @@
             LogoutButton.TabIndex = 3;
             LogoutButton.Text = "Logout";
             LogoutButton.UseVisualStyleBackColor = true;
+            LogoutButton.Click += LogoutButton_Click;
             // 
             // dataGridView1
             // 

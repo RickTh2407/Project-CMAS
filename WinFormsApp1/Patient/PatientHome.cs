@@ -17,12 +17,22 @@ namespace WinFormsApp1
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void ResultButton_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void AdviceButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LogoutButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ExerciseButton_Click(object sender, EventArgs e)
         {
 
         }
