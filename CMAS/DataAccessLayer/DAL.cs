@@ -8,5 +8,6 @@ namespace CMAS.DataAccessLayer
 {
     internal class DAL
     {
+        private string connectionstring = "Data Source=.;Initial Catalog=CmasDB;Integrated Security=True;Encrypt=False";
     }
 }
