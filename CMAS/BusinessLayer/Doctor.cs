@@ -14,15 +14,15 @@ namespace CMAS.BusinessLayer
 
         public void TestMobility()
         {
-
+            //Same as Test.ExecuteTest()
         }
         public void AssignExercise()
         {
-
+            //Maybe for Physio?
         }
         public void InputMeasurement()
         {
-
+            //Maybe for Physio only?
         }
         public void Advice()
         {

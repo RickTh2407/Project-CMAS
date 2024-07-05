@@ -13,11 +13,11 @@ namespace CMAS.BusinessLayer
 
         public void ViewDiagram()
         {
-
+            //View diagram created in Statistic.CreateDiagram()
         }
         public void ViewStatistics()
         {
-
+            //View general numbers of all tests.
         }
     }
 }

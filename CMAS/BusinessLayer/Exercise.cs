@@ -12,7 +12,6 @@ namespace CMAS.BusinessLayer
         private string ExerciseName { get; set; }
         private string ExerciseDescription { get; set; }
         private bool ExerciseFinished { get; set; }
-        private List<Exercise> ExerciseList { get; set; }
 
         public void SummerizeExercise()
         {

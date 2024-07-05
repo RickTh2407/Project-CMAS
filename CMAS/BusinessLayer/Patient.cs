@@ -13,10 +13,12 @@ namespace CMAS.BusinessLayer
         private string PatientName { get; set; }
         private string PatientAddress { get; set; }
         private DateTime DateOfBirth { get; set; }
+        //For ID
+        private Illness Illness { get; set; }
 
         public void StartExercise()
         {
-
+            
         }
         public void StopExercise()
         {

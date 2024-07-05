@@ -8,5 +8,13 @@ namespace CMAS.DataAccessLayer
 {
     internal class DAL
     {
+        //Create
+
+        //Read
+
+        //Update
+
+        //Delete
+
     }
 }

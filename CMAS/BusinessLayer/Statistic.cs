@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace CMAS.BusinessLayer
 {
-    internal class Statistic : Data
+    internal class Statistic : Rapport
     {
-        private Data Data { get; set; }
-
         public void CreateDiagram()
         {
-
+            //Create diagram from all testing data
         }
     }
 }
