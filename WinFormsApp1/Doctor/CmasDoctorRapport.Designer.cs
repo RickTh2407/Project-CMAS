@@ -28,82 +28,87 @@
         /// </summary>
         private void InitializeComponent()
         {
-            menuStrip1 = new MenuStrip();
-            homeToolStripMenuItem = new ToolStripMenuItem();
-            patientToolStripMenuItem = new ToolStripMenuItem();
-            resultToolStripMenuItem = new ToolStripMenuItem();
-            adviceToolStripMenuItem = new ToolStripMenuItem();
-            exerciseToolStripMenuItem1 = new ToolStripMenuItem();
-            menuStrip1.SuspendLayout();
+            PatientsBtn = new Button();
+            HomeBtn = new Button();
+            BackBtn = new Button();
+            DgPatients = new DataGridView();
+            PbGraph = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)DgPatients).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)PbGraph).BeginInit();
             SuspendLayout();
             // 
-            // menuStrip1
+            // PatientsBtn
             // 
-            menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { homeToolStripMenuItem, patientToolStripMenuItem, resultToolStripMenuItem, adviceToolStripMenuItem, exerciseToolStripMenuItem1 });
-            menuStrip1.Location = new Point(0, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(800, 28);
-            menuStrip1.TabIndex = 0;
-            menuStrip1.Text = "menuStrip1";
+            PatientsBtn.Location = new Point(12, 68);
+            PatientsBtn.Name = "PatientsBtn";
+            PatientsBtn.Size = new Size(125, 51);
+            PatientsBtn.TabIndex = 2;
+            PatientsBtn.Text = "Patients";
+            PatientsBtn.UseVisualStyleBackColor = true;
+            PatientsBtn.Click += PatientsBtn_Click;
             // 
-            // homeToolStripMenuItem
+            // HomeBtn
             // 
-            homeToolStripMenuItem.Name = "homeToolStripMenuItem";
-            homeToolStripMenuItem.Size = new Size(64, 24);
-            homeToolStripMenuItem.Text = "Home";
-            homeToolStripMenuItem.Click += homeToolStripMenuItem_Click;
+            HomeBtn.Location = new Point(12, 11);
+            HomeBtn.Name = "HomeBtn";
+            HomeBtn.Size = new Size(125, 51);
+            HomeBtn.TabIndex = 1;
+            HomeBtn.Text = "Home";
+            HomeBtn.UseVisualStyleBackColor = true;
+            HomeBtn.Click += HomeBtn_Click;
             // 
-            // patientToolStripMenuItem
+            // BackBtn
             // 
-            patientToolStripMenuItem.Name = "patientToolStripMenuItem";
-            patientToolStripMenuItem.Size = new Size(68, 24);
-            patientToolStripMenuItem.Text = "Patient";
-            patientToolStripMenuItem.Click += patientToolStripMenuItem_Click;
+            BackBtn.Location = new Point(12, 403);
+            BackBtn.Name = "BackBtn";
+            BackBtn.Size = new Size(125, 51);
+            BackBtn.TabIndex = 3;
+            BackBtn.Text = "Back";
+            BackBtn.UseVisualStyleBackColor = true;
+            BackBtn.Click += BackBtn_Click;
             // 
-            // resultToolStripMenuItem
+            // DgPatients
             // 
-            resultToolStripMenuItem.Name = "resultToolStripMenuItem";
-            resultToolStripMenuItem.Size = new Size(63, 24);
-            resultToolStripMenuItem.Text = "Result";
-            resultToolStripMenuItem.Click += resultToolStripMenuItem_Click;
+            DgPatients.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            DgPatients.Location = new Point(191, 11);
+            DgPatients.Name = "DgPatients";
+            DgPatients.Size = new Size(422, 442);
+            DgPatients.TabIndex = 7;
+            DgPatients.CellContentClick += DgPatients_CellContentClick;
             // 
-            // adviceToolStripMenuItem
+            // PbGraph
             // 
-            adviceToolStripMenuItem.Name = "adviceToolStripMenuItem";
-            adviceToolStripMenuItem.Size = new Size(68, 24);
-            adviceToolStripMenuItem.Text = "Advice";
-            adviceToolStripMenuItem.Click += adviceToolStripMenuItem_Click;
-            // 
-            // exerciseToolStripMenuItem1
-            // 
-            exerciseToolStripMenuItem1.Name = "exerciseToolStripMenuItem1";
-            exerciseToolStripMenuItem1.Size = new Size(76, 24);
-            exerciseToolStripMenuItem1.Text = "Exercise";
-            exerciseToolStripMenuItem1.Click += exerciseToolStripMenuItem1_Click;
+            PbGraph.Location = new Point(662, 11);
+            PbGraph.Name = "PbGraph";
+            PbGraph.Size = new Size(260, 247);
+            PbGraph.TabIndex = 8;
+            PbGraph.TabStop = false;
+            PbGraph.Click += PbGraph_Click;
             // 
             // CmasDoctorRapport
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(menuStrip1);
-            MainMenuStrip = menuStrip1;
+            ClientSize = new Size(934, 466);
+            Controls.Add(PbGraph);
+            Controls.Add(DgPatients);
+            Controls.Add(BackBtn);
+            Controls.Add(HomeBtn);
+            Controls.Add(PatientsBtn);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "CmasDoctorRapport";
             Text = "CmasDoctorRapport";
-            menuStrip1.ResumeLayout(false);
-            menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)DgPatients).EndInit();
+            ((System.ComponentModel.ISupportInitialize)PbGraph).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
-        private MenuStrip menuStrip1;
-        private ToolStripMenuItem homeToolStripMenuItem;
-        private ToolStripMenuItem patientToolStripMenuItem;
-        private ToolStripMenuItem resultToolStripMenuItem;
-        private ToolStripMenuItem adviceToolStripMenuItem;
-        private ToolStripMenuItem exerciseToolStripMenuItem1;
+        private Button PatientsBtn;
+        private Button HomeBtn;
+        private Button BackBtn;
+        private DataGridView DgPatients;
+        private PictureBox PbGraph;
     }
 }
