@@ -11,7 +11,17 @@ namespace CMAS.BusinessLayer
         private int PhysioId { get; set; }
         private string PhysioName { get; set; }
 
+        public Physio(int physioId, string physioName)
+        {
+            physioId = PhysioId;
+            physioName = PhysioName;
+        }
+
         public void InputMeasurement()
+        {
+
+        }
+        public void AssignExercise()
         {
 
         }

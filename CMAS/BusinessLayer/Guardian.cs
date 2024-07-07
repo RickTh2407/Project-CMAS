@@ -14,6 +14,13 @@ namespace CMAS.BusinessLayer
         //For ID
         private Rapport Rapport { get; set; }
 
+        public Guardian(int guardianId, int relativePatient, string guardianName)
+        {
+            guardianId = GuardianId;
+            relativePatient = RelativePatient;
+            guardianName = GuardianName;
+        }
+
         public void VerifyResults()
         {
             //Function to change Exercise.ExerciseFinished from false to true
