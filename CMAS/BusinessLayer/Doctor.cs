@@ -8,21 +8,23 @@ namespace CMAS.BusinessLayer
 {
     internal class Doctor
     {
-        private int DoctorId { get; set; }
-        private string DoctorName { get; set; }
-        private string Department { get; set; }
+        public int DoctorId { get; set; }
+        //public due to protection level, should be private
+        public string DoctorName { get; set; }
+        //public due to protection level, should be private
+        public string Department { get; set; }
+        private List<Doctor> Doctors { get; set; }
+
+        public Doctor(int doctorId, string doctorName, string department)
+        {
+            doctorId = DoctorId;
+            doctorName = DoctorName;
+            department = Department;
+        }
 
         public void TestMobility()
         {
             //Same as Test.ExecuteTest()
-        }
-        public void AssignExercise()
-        {
-            //Maybe for Physio?
-        }
-        public void InputMeasurement()
-        {
-            //Maybe for Physio only?
         }
         public void Advice()
         {

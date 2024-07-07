@@ -11,6 +11,12 @@ namespace CMAS.BusinessLayer
         private int ResearcherId { get; set; }
         private string ResearcherName { get; set; }
 
+        public Reseacher(int researcherId, string researcherName)
+        {
+            researcherId = ResearcherId;
+            researcherName = ResearcherName;
+        }
+
         public void ViewDiagram()
         {
             //View diagram created in Statistic.CreateDiagram()

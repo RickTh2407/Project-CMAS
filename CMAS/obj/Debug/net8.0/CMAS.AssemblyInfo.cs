@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMAS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20458ff31efe4adebe48072e3e456e56f978ca54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df21eb6e2e76c986dbb9a3483c0baa449aaa8a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

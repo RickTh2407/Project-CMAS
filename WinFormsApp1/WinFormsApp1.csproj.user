@@ -55,6 +55,9 @@
     <Compile Update="Physio\PhysioAdviceCrud.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Physio\PhysioExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Physio\PhysioExerciseCrud.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +68,12 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Physio\PhysioRapports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Physio\PhysioStartExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Physio\PhysioStartTest.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Register.cs">
