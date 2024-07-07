@@ -8,10 +8,10 @@ namespace CMAS.BusinessLayer
 {
     internal class Doctor
     {
+        //public due to protection level, should be private
         public int DoctorId { get; set; }
         //public due to protection level, should be private
         public string DoctorName { get; set; }
-        //public due to protection level, should be private
         public string Department { get; set; }
         private List<Doctor> Doctors { get; set; }
 
