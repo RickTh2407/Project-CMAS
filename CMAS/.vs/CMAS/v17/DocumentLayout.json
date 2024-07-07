@@ -3,56 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\DataAccessLayer\\DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\patient\\patienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Physio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Physio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Illness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Illness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Guardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Guardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Rapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Rapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Reseacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLayer\\Statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\rickt\\source\\repos\\project-cmas\\winformsapp1\\doctor\\cmas doctor home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
@@ -110,6 +65,51 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\rickt\\source\\repos\\project-cmas\\winformsapp1\\patient\\patientadvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\physio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\physio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\illness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\illness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\guardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\guardian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\rapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\rapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\cmas\\businesslayer\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CF886-00EC-420D-932A-3C62CF2E62C0}|CMAS.csproj|solutionrelative:businesslayer\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345BD649-0C23-45AD-83EF-FD1A16767082}|..\\WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\knopp\\dropbox\\my pc (laptop-c3l4er7c)\\documents\\github2\\project-cmas\\winformsapp1\\patient\\patienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -123,7 +123,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "Exercise.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Exercise.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Exercise.cs",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Patient.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Patient.cs",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "Physio.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Physio.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Physio.cs",
@@ -165,14 +165,14 @@
               "RelativeDocumentMoniker": "DataAccessLayer\\DAL.cs",
               "ToolTip": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\DataAccessLayer\\DAL.cs",
               "RelativeToolTip": "DataAccessLayer\\DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T23:23:39.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "Illness.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Illness.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Illness.cs",
@@ -184,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "Guardian.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Guardian.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Guardian.cs",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Test.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Test.cs",
@@ -208,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "Rapport.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Rapport.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Rapport.cs",
@@ -220,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Doctor.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Doctor.cs",
@@ -232,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Reseacher.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Reseacher.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\CMAS\\BusinessLayer\\Reseacher.cs",
@@ -244,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 29,
               "Title": "Statistic.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\CMAS\\BusinessLayer\\Statistic.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\Statistic.cs",
@@ -256,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Cmas Doctor Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\Cmas Doctor Home.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\Cmas Doctor Home.cs",
@@ -267,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "CmasDoctorAdvice.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorAdvice.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorAdvice.cs",
@@ -278,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Cmas Doctor Home.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\Cmas Doctor Home.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\Cmas Doctor Home.cs",
@@ -290,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "GuardianAdvice.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Guardian\\GuardianAdvice.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Guardian\\GuardianAdvice.cs",
@@ -302,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Program.cs",
@@ -314,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 7,
               "Title": "CmasDoctorExercises.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorExercises.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorExercises.cs",
@@ -325,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "CmasDoctorPatient.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorPatient.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorPatient.cs",
@@ -336,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
               "Title": "CmasDoctorRapport.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorRapport.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorRapport.cs",
@@ -347,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 10,
               "Title": "CmasDoctorRapport.Designer.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorRapport.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorRapport.Designer.cs",
@@ -359,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "CmasDoctorResult.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorResult.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorResult.cs",
@@ -370,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 12,
               "Title": "CmasDoctorRapport.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorRapport.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorRapport.cs",
@@ -381,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 13,
               "Title": "CmasDoctorResult.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorResult.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorResult.cs",
@@ -392,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 14,
               "Title": "CmasDoctorPatient.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorPatient.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorPatient.cs",
@@ -403,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 15,
               "Title": "CmasDoctorExercises.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorExercises.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorExercises.cs",
@@ -414,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 16,
               "Title": "CmasDoctorAdvice.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorAdvice.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\CmasDoctorAdvice.cs",
@@ -425,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 17,
               "Title": "Cmas Doctor Home.Designer.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\Cmas Doctor Home.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Doctor\\Cmas Doctor Home.Designer.cs",
@@ -437,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 18,
               "Title": "PatientHome.cs",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Patient\\PatientHome.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Patient\\PatientHome.cs",
@@ -448,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 19,
               "Title": "PatientHome.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Patient\\PatientHome.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Patient\\PatientHome.cs",
@@ -459,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 20,
               "Title": "PatientAdvice.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Patient\\PatientAdvice.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\rickt\\source\\repos\\Project-CMAS\\WinFormsApp1\\Patient\\PatientAdvice.cs",
@@ -470,18 +470,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 30,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "..\\WinFormsApp1\\Login.cs",
               "ToolTip": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs",
               "RelativeToolTip": "..\\WinFormsApp1\\Login.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T10:13:48.385Z"
+              "WhenOpened": "2024-07-05T10:13:48.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 31,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "..\\WinFormsApp1\\Login.cs",
@@ -492,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 32,
               "Title": "PatientHome.cs [Design]",
               "DocumentMoniker": "C:\\Users\\knopp\\Dropbox\\My PC (LAPTOP-C3L4ER7C)\\Documents\\GitHub2\\Project-CMAS\\WinFormsApp1\\Patient\\PatientHome.cs",
               "RelativeDocumentMoniker": "..\\WinFormsApp1\\Patient\\PatientHome.cs",
