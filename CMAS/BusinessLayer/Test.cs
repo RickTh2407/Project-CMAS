@@ -11,8 +11,13 @@ namespace CMAS.BusinessLayer
         private int TestId { get; set; }
         private Patient Patient { get; set; }
         private DateTime DateOfExecution { get; set; }
-        private List<Exercise> Exercises { get; set; }
 
+        public Test(int testId,Patient patient, DateTime dateOfExecution)
+        {
+            testId = TestId;
+            
+            dateOfExecution = DateOfExecution;
+        }
         public void ExecuteTest()
         {
             //insert where data is filled in and updated, through DAL, to database
