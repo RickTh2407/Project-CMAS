@@ -61,16 +61,7 @@
     <Compile Update="Physio\PhysioHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Physio\PhysioPatientsStartExercise.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Physio\PhysioPatients.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Physio\PhysioPatientsExercise.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Physio\PhysioPatientsStartTest.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Physio\PhysioRapports.cs">

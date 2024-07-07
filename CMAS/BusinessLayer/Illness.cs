@@ -10,11 +10,5 @@ namespace CMAS.BusinessLayer
     {
         private int IllnessId { get; set; }
         private string IllnessName { get; set; }
-
-        public Illness(int illnessId, string illnessName)
-        {
-            illnessId = IllnessId;
-            illnessName = IllnessName;
-        }
     }
 }

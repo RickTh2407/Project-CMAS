@@ -36,31 +36,6 @@ namespace CMAS.BusinessLayer
         private double RightWrist { get; set; }
         private double Nose { get; set; }
 
-        public Rapport(int rapportId, string location, double leftAnkle, double rightAnkle, double leftEar, double rightEar, 
-            double leftElbow, double rightElbow, double leftEye, double rightEye, double leftHip, double rightHip, double leftKnee,
-            double rightKnee, double leftShoulder, double rightShoulder, double leftWrist, double rightWrist, double nose)
-        {
-            rapportId = RapportId;
-            location = Location;
-            leftAnkle = LeftAnkle;
-            rightAnkle = RightAnkle;
-            leftEar = LeftEar;
-            rightEar = RightEar;
-            leftElbow = LeftElbow;
-            rightElbow = RightElbow;
-            leftEye = LeftEye;
-            rightEye = RightEye;
-            leftHip = LeftHip;
-            rightHip = RightHip;
-            leftKnee = LeftKnee;
-            rightKnee = RightKnee;
-            leftShoulder = LeftShoulder;
-            rightShoulder = RightShoulder;
-            leftWrist = LeftWrist;
-            rightWrist = RightWrist;
-            nose = Nose;
-        }
-
         public void CreateRapport()
         {
             //Sum up all measurements with corresponding name + assign to account

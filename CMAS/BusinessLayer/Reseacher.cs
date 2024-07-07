@@ -6,16 +6,10 @@ using System.Threading.Tasks;
 
 namespace CMAS.BusinessLayer
 {
-    internal class Researcher
+    internal class Reseacher
     {
         private int ResearcherId { get; set; }
         private string ResearcherName { get; set; }
-
-        public Researcher(int researcherId, string researcherName)
-        {
-            researcherId = ResearcherId;
-            researcherName = ResearcherName;
-        }
 
         public void ViewDiagram()
         {
