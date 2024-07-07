@@ -10,6 +10,7 @@ namespace CMAS.BusinessLayer
     {
         private int GuardianId { get; set; }
         private int RelativePatient { get; set; }
+        private string GuardianName { get; set; }
         //For ID
         private Rapport Rapport { get; set; }
 

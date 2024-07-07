@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace CMAS.BusinessLayer
 {
-    internal class Statistic : Rapport
+    internal class Statistic
     {
+        private Rapport Rapport { get; set; }
+
         public void CreateDiagram()
         {
             //Create diagram from all testing data
